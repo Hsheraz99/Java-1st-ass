@@ -1,0 +1,3 @@
+function (props)=>{
+    console.log
+}
